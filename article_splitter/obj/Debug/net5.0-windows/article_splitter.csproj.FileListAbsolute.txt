@@ -1,0 +1,16 @@
+C:\Users\suleiman\article_splitter\bin\Debug\net5.0-windows\article_splitter.exe
+C:\Users\suleiman\article_splitter\bin\Debug\net5.0-windows\article_splitter.deps.json
+C:\Users\suleiman\article_splitter\bin\Debug\net5.0-windows\article_splitter.runtimeconfig.json
+C:\Users\suleiman\article_splitter\bin\Debug\net5.0-windows\article_splitter.runtimeconfig.dev.json
+C:\Users\suleiman\article_splitter\bin\Debug\net5.0-windows\article_splitter.dll
+C:\Users\suleiman\article_splitter\bin\Debug\net5.0-windows\ref\article_splitter.dll
+C:\Users\suleiman\article_splitter\bin\Debug\net5.0-windows\article_splitter.pdb
+C:\Users\suleiman\article_splitter\obj\Debug\net5.0-windows\article_splitter.csprojAssemblyReference.cache
+C:\Users\suleiman\article_splitter\obj\Debug\net5.0-windows\article_splitter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\suleiman\article_splitter\obj\Debug\net5.0-windows\article_splitter.AssemblyInfoInputs.cache
+C:\Users\suleiman\article_splitter\obj\Debug\net5.0-windows\article_splitter.AssemblyInfo.cs
+C:\Users\suleiman\article_splitter\obj\Debug\net5.0-windows\article_splitter.csproj.CoreCompileInputs.cache
+C:\Users\suleiman\article_splitter\obj\Debug\net5.0-windows\article_splitter.dll
+C:\Users\suleiman\article_splitter\obj\Debug\net5.0-windows\ref\article_splitter.dll
+C:\Users\suleiman\article_splitter\obj\Debug\net5.0-windows\article_splitter.pdb
+C:\Users\suleiman\article_splitter\obj\Debug\net5.0-windows\article_splitter.genruntimeconfig.cache
