@@ -1,2 +1,0 @@
-C:\Users\suleiman\article_splitter\bin\Debug\net5.0-windows\win-x64\publish\article_splitter.pdb
-C:\Users\suleiman\article_splitter\bin\Debug\net5.0-windows\win-x64\publish\article_splitter.exe
